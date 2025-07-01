@@ -1,2 +1,6 @@
+[^.]*
+!*/
+!**.*
 .cph
 .clang-format
+.vscode
