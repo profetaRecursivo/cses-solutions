@@ -3,3 +3,4 @@ Maximum_Subarray_Sum.cpp|Kadane
 Missing_Coin_Sum.cpp|Minima suma que no se puede formar con un subsecuencia
 Playlist.cpp|Ventana con elementos que se repiten una sola vez
 Nearest_Smaller_Values.cpp|Para cada posición del arreglo, encontrar el índice más cercano a la izquierda con un valor menor, o 0 si no existe. Minimum stack technique
+Josephus_Problem_II.cpp|El problema de josefo mostrando quienes fueron eliminados
