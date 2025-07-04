@@ -4,3 +4,7 @@ Missing_Coin_Sum.cpp|Minima suma que no se puede formar con un subsecuencia
 Playlist.cpp|Ventana con elementos que se repiten una sola vez
 Nearest_Smaller_Values.cpp|Para cada posición del arreglo, encontrar el índice más cercano a la izquierda con un valor menor, o 0 si no existe. Minimum stack technique
 Josephus_Problem_II.cpp|El problema de josefo mostrando quienes fueron eliminados
+Room_Allocation.cpp|Dado un conjunto de n intervalos cerrados [ai,bi][ai​,bi​] sobre la recta real, encuentra la mínima cantidad de conjuntos de intervalos mutuamente disjuntos en los que se puede particionar el conjunto original, de manera que cada intervalo pertenezca exactamente a uno de estos conjuntos.
+Subarray_Sums_II.cpp|Cantidad de subarrays de suma K (incluye negativos)
+
+//Recordatorios en la busqueda binaria, puede dar WA no necesariamente por un overflow en el mid por los l y r, si no en la misma funcion binaria, ojo ahi
