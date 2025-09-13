@@ -11,6 +11,8 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
+//Given n ranges, your task is to determine for each range if it contains some other range and if some other range contains it.
+//Range [a,b] contains range [c,d] if a \le c and d \le b.
 bool cmp(tuple<int, int, int>& a, tuple<int, int, int>& b){
 
     if(get<0>(a) == get<0>(b))return get<1>(a) > get<1>(b);

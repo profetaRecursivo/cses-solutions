@@ -11,6 +11,8 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
+//Given n ranges, your task is to count for each range how many other ranges it contains and how many other ranges contain it.
+//Range [a,b] contains range [c,d] if a \le c and d \le b.
 
 // primero bits/stdc, std y luego las demas libs#include <bits/stdc++.h>
 using namespace std;

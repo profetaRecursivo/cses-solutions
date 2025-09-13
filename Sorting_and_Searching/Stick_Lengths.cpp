@@ -18,6 +18,9 @@ const double EPS = 1e-9;
 const double PI = acos(-1);
 const int INF = 1e18;
 // PLUS ULTRA RECARGADO!!!
+// There are n sticks with some lengths. Your task is to modify the sticks so that each stick has the same length.
+// You can either lengthen and shorten each stick. Both operations cost x where x is the difference between the new and original length.
+// What is the minimum total cost?
 void solve() {
     int n;
     cin >> n;

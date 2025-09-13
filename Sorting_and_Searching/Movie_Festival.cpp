@@ -23,6 +23,8 @@ bool cmp(pii& a, pii& b){
     if(a.s  == b.s)return a.f < b.f;
     return a.s < b.s;
 }
+// In a movie festival n movies will be shown. You know the starting and ending time of each movie. What is the maximum number of movies you can watch entirely?
+
  
 void solve() {
     int n;cin>>n;

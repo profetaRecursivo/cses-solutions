@@ -12,7 +12,7 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
- 
+//  Given an array of n integers, your task is to find for each array position the nearest position to its left having a smaller value.
 void solve(){
     int n;cin>>n;
     stack<pair<int, int>> pila;

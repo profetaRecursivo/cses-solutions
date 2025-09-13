@@ -18,6 +18,9 @@ const double EPS = 1e-9;
 const double PI = acos(-1);
 const int INF = 1e18;
 // PLUS ULTRA RECARGADO!!!
+// You are given an array that contains each number between 1 \dots n exactly once. Your task is to collect the numbers from 1 to n in increasing order.
+// On each round, you go through the array from left to right and collect as many numbers as possible. What will be the total number of rounds?
+
 void solve() {
     int n;
     cin >> n;

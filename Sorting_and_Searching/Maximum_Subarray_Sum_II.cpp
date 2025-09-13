@@ -12,6 +12,7 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 922337203685477580LL;
 const int tam = 1;
+//Given an array of n integers, your task is to find the maximum sum of values in a contiguous subarray with length between a and b.
 
 void solve(){
     int n, a, b;

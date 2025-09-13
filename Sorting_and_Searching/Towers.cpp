@@ -2,7 +2,8 @@
 using namespace std;
 #define ll long long
 const int tam = 1;
- 
+// You are given n cubes in a certain order, and your task is to build towers using them. Whenever two cubes are one on top of the other, the upper cube must be smaller than the lower cube.
+// You must process the cubes in the given order. You can always either place the cube on top of an existing tower, or begin a new tower. What is the minimum possible number of towers?
 void solve(){
     int n;cin>>n;
     multiset<int> ms;

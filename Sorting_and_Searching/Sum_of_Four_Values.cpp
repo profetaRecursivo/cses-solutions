@@ -12,7 +12,7 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
-
+// You are given an array of n integers, and your task is to find four values (at distinct positions) whose sum is x.
 void solve(){
     int n, k;cin>>n>>k;
     vector<int> arr(n);

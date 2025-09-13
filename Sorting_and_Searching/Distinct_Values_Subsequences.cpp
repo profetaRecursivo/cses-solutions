@@ -12,14 +12,23 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
-// There are n books, and Kotivalo and Justiina are going to read them all. For each book, you know the time it takes to read it.
-// They both read each book from beginning to end, and they cannot read a book at the same time. What is the minimum total time required?
+unordered_map<int, int> mp;
+// Given an array of n integers, count the number of subsequences where each element is dictinct.
+// A subsequence is a sequence of array elements from left to right that may have gaps.
 
 void solve(){
    int n;cin>>n;
-   vector<int> arr(n);
-   fore(i, 0, n)cin>>arr[i];
-   cout<<max(2LL*(*max_element(all(arr))), accumulate(all(arr), 0LL));
+   mp.reserve(n+10);
+   for(int i = 0; i<n; i++){
+    int x;cin>>x;
+    mp[x]++;
+   }
+   int ans = 1;
+   for(auto p:mp){
+    ans*=(p.second+1);
+    ans%=MOD;
+   }
+   cout<<ans-1<<'\n';
 }
 
 signed main(){

@@ -19,6 +19,9 @@ struct tupla
 bool cmp(tupla& a, tupla&b){
     return make_pair(a.l, a.r) < make_pair(b.l, b.r);
 }
+//There is a large hotel, and n customers will arrive soon. Each customer wants to have a single room.
+// You know each customer's arrival and departure day. Two customers can stay in the same room if the departure day of the first customer is earlier than the arrival day of the second customer.
+// What is the minimum number of rooms that are needed to accommodate all customers? And how can the rooms be allocated?
 void solve(){
     int n;cin>>n;
     vector<tupla> ran(n);

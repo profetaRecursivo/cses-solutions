@@ -9,7 +9,10 @@ using namespace std;
 using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
- 
+// There is a street of length x whose positions are numbered 0,1,\ldots,x. Initially there are no traffic lights, but n sets of traffic lights are added to the street one after another.
+// Your task is to calculate the length of the longest passage without traffic lights after each addition.
+
+
 void solve() {
     ll x, n;
     cin >> x >> n;

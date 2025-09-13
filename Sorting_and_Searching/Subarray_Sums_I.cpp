@@ -13,7 +13,7 @@ const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
  
- 
+//  Given an array of n positive integers, your task is to count the number of subarrays having sum x.
 void solve(){
     int n, k;cin>>n>>k;
     rec(arr, n);

@@ -10,6 +10,9 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
  
+// You are given a playlist of a radio station since its establishment. The playlist has a total of n songs.
+// What is the longest sequence of successive songs where each song is unique?
+
 void solve() {
   int n;
   cin >> n;

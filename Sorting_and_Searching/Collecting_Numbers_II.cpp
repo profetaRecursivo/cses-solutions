@@ -11,7 +11,9 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
-
+// You are given an array that contains each number between 1 \dots n exactly once. Your task is to collect the numbers from 1 to n in increasing order.
+// On each round, you go through the array from left to right and collect as many numbers as possible.
+// Given m operations that swap two numbers in the array, your task is to report the number of rounds after each operation.
 void solve(){
     int n, q;cin>>n>>q;
     vector<int> arr(n+1), pos(n+1);

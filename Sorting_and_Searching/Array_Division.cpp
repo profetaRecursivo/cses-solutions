@@ -17,7 +17,8 @@ bool f(vector<int>& arr, int maxSum, int k) {
     }
     return sub <= k;
 }
- 
+// You are given an array containing n positive integers.
+// Your task is to divide the array into k subarrays so that the maximum sum in a subarray is as small as possible.
 signed main() {
     int n, k;
     cin >> n >> k;

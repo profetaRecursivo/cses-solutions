@@ -11,7 +11,8 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
-
+//Your task is to calculate the number of trailing zeros in the factorial n!.
+//For example, 20! = 2432902008176640000 and it has 4 trailing zeros.
 void solve() {
 	int n;
 	cin >> n;

@@ -12,6 +12,8 @@ const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
 ll g(ll tam) { return tam * (tam + 1) / 2; }
+// Given an array of n integers, your task is to calculate the number of subarrays that have at most k distinct values.
+
 void solve() {
 	int n, k;
 	cin >> n >> k;

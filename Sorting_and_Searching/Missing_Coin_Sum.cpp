@@ -9,7 +9,8 @@ using namespace std;
 using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
- 
+// You have n coins with positive integer values. What is the smallest sum you cannot create using a subset of the coins?
+
 void solve(){
     int n;cin>>n;
     int arr[n];

@@ -13,6 +13,7 @@ const ll INF = 9223372036854775807LL;
 const int tam = 1;
 #include <bits/stdc++.h> 
 using namespace std; 
+//Consider a game where there are n children (numbered 1,2,\dots,n) in a circle. During the game, repeatedly k children are skipped and one child is removed from the circle. In which order will the children be removed?
 
 #include <ext/pb_ds/assoc_container.hpp> 
 #include <ext/pb_ds/tree_policy.hpp> 
