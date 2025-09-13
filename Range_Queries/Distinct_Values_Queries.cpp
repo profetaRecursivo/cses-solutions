@@ -11,7 +11,7 @@ using vi = vector<int>;
 const int MOD = 1000000007;
 const ll INF = 9223372036854775807LL;
 const int tam = 1;
-
+You are given an array of n integers and q queries of the form: how many distinct values are there in a range [a,b]?
 vector<ll> bit;
 int len;
 
