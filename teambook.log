@@ -1,0 +1,1229 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2026/dev/Arch Linux) (preloaded format=xelatex 2025.8.26)  6 NOV 2025 17:14
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**teambook.tex
+(./teambook.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@section=\count193
+\c@subsection=\count194
+\c@subsubsection=\count195
+\c@paragraph=\count196
+\c@subparagraph=\count197
+\c@figure=\count198
+\c@table=\count199
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+)
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count269
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count270
+\g__pdf_backend_link_int=\count271
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count272
+\l__fontspec_language_int=\count273
+\l__fontspec_strnum_int=\count274
+\l__fontspec_tmp_int=\count275
+\l__fontspec_tmpa_int=\count276
+\l__fontspec_tmpb_int=\count277
+\l__fontspec_tmpc_int=\count278
+\l__fontspec_em_int=\count279
+\l__fontspec_emdef_int=\count280
+\l__fontspec_strong_int=\count281
+\l__fontspec_strongdef_int=\count282
+\l__fontspec_tmpa_dim=\dimen150
+\l__fontspec_tmpb_dim=\dimen151
+\l__fontspec_tmpc_dim=\dimen152
+
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: 
+(fontspec)             Font family 'JetBrainsMono(0)' created for font
+(fontspec)             'JetBrains Mono' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"JetBrains
+(fontspec)             Mono/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"JetBrains
+(fontspec)             Mono/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"JetBrains
+(fontspec)             Mono/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"JetBrains
+(fontspec)             Mono/BI/OT:script=latn;language=dflt;"
+
+
+(/usr/share/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2025/03/06 v3.6.0 Yet another Pygments shim for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
+)
+(/usr/share/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2025/03/04 v1.12.0 fvextra - extensions and patches for fancyv
+rb
+
+(/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+\FV@CodeLineNo=\count284
+\FV@InFile=\read2
+\FV@TabBox=\box53
+\c@FancyVerbLine=\count285
+\FV@StepNumber=\count286
+\FV@OutFile=\write3
+)
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(/usr/share/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2025/01/29 line numbers on paragraphs v5.4
+
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count287
+\output=\toks19
+\linenoprevgraf=\count288
+\linenumbersep=\dimen153
+\linenumberwidth=\dimen154
+\c@linenumber=\count289
+\c@pagewiselinenumber=\count290
+\c@LN@truepage=\count291
+\c@internallinenumber=\count292
+\c@internallinenumbers=\count293
+\quotelinenumbersep=\dimen155
+\bframerule=\dimen156
+\bframesep=\dimen157
+\bframebox=\box54
+LaTeX Info: Redefining \\ on input line 3187.
+)
+\c@FancyVerbWriteLine=\count294
+\c@FancyVerbBufferLine=\count295
+\c@FV@TrueTabGroupLevel=\count296
+\c@FV@TrueTabCounter=\count297
+\FV@TabBox@Group=\box55
+\FV@bgcolorstructbox=\box56
+\FV@TmpLength=\skip51
+\c@FV@HighlightLinesStart=\count298
+\c@FV@HighlightLinesStop=\count299
+\FV@LoopCount=\count300
+\FV@NCharsBox=\box57
+\FV@BreakIndent=\dimen158
+\FV@BreakIndentNChars=\count301
+\FV@BreakSymbolSepLeft=\dimen159
+\FV@BreakSymbolSepLeftNChars=\count302
+\FV@BreakSymbolSepRight=\dimen160
+\FV@BreakSymbolSepRightNChars=\count303
+\FV@BreakSymbolIndentLeft=\dimen161
+\FV@BreakSymbolIndentLeftNChars=\count304
+\FV@BreakSymbolIndentRight=\dimen162
+\FV@BreakSymbolIndentRightNChars=\count305
+\c@FancyVerbLineBreakLast=\count306
+\FV@LineBox=\box58
+\FV@LineIndentBox=\box59
+\c@FV@BreakBufferDepth=\count307
+\FV@LineWidth=\dimen163
+)
+(/usr/share/texmf-dist/tex/latex/latex2pydata/latex2pydata.sty
+Package: latex2pydata 2025/03/03 v0.5.0 latex2pydata - write data to file in Py
+thon literal format
+)
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.te
+x
+\pgfkeys@tmptoks=\toks22
+))) (/usr/share/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks23
+\pgfopts@list@add@b@toks=\toks24
+)
+(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count308
+\float@exts=\toks25
+\float@box=\box60
+\@float@everytoks=\toks26
+\@floatcapt=\box61
+)
+\c@minted@FancyVerbLineTemp=\count309
+\@float@every@listing=\toks27
+\c@listing=\count310
+)
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count311
+
+
+Package multicol Warning: May not work with the twocolumn option on input line 
+140.
+
+\mult@box=\box62
+\multicol@leftmargin=\dimen164
+\c@unbalance=\count312
+\c@collectmore=\count313
+\doublecol@number=\count314
+\multicoltolerance=\count315
+\multicolpretolerance=\count316
+\full@width=\dimen165
+\page@free=\dimen166
+\premulticols=\dimen167
+\postmulticols=\dimen168
+\multicolsep=\skip52
+\multicolbaselineskip=\skip53
+\partial@page=\box63
+\last@line=\box64
+\mc@boxedresult=\box65
+\maxbalancingoverflow=\dimen169
+\mult@rightbox=\box66
+\mult@grightbox=\box67
+\mult@firstbox=\box68
+\mult@gfirstbox=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\c@minrows=\count317
+\c@columnbadness=\count318
+\c@finalcolumnbadness=\count319
+\last@try=\dimen170
+\multicolovershoot=\dimen171
+\multicolundershoot=\dimen172
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count320
+) (/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box108
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen173
+\ttl@minus=\dimen174
+\ttl@toksa=\toks28
+\titlewidth=\dimen175
+\titlewidthlast=\dimen176
+\titlewidthfirst=\dimen177
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count321
+)
+(/usr/share/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen178
+\Hy@linkcounter=\count322
+\Hy@pagecounter=\count323
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count324
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count325
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen179
+
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count326
+\Field@Width=\dimen180
+\Fld@charsize=\dimen181
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count327
+\c@Item=\count328
+\c@Hfootnote=\count329
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box109
+\c@Hy@AnnotLevel=\count330
+\HyField@AnnotCount=\count331
+\Fld@listcount=\count332
+\c@bookmark@seq@number=\count333
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip56
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen182
+\Gin@req@width=\dimen183
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/usr/share/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (./teambook.aux)
+\openout1 = `teambook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(36.135pt, 722.7pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 542.02501pt, 36.135pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=722.7pt
+* \textheight=542.02501pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 39.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 39.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 39.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 39.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 39.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 39.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 39.
+LaTeX Font Info:    Redeclaring math accent \check on input line 39.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 39.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 39.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 39.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 39.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 39.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/JetBrainsMono(0)/m/n on input line 
+39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/JetBrainsMono(0)/b/n on input line 
+39.
+Package hyperref Info: Link coloring OFF on input line 39.
+(./teambook.out) (./teambook.out)
+\@outlinefile=\write4
+\openout4 = `teambook.out'.
+
+
+
+(./teambook.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+
+
+[1
+
+]
+
+
+
+[2])
+\tf@toc=\write5
+\openout5 = `teambook.toc'.
+
+
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 61.
+
+\pydata@fh@_E71132034335E26EA8E09EE4F9457A39.data.minted=\write6
+\openout6 = `_E71132034335E26EA8E09EE4F9457A39.data.minted'.
+
+runsystem(latexminted config  --timestamp 20251106171402 E71132034335E26EA8E09E
+E4F9457A39)...executed.
+
+(./_E71132034335E26EA8E09EE4F9457A39.config.minted)
+runsystem(latexminted cleanconfig  --timestamp 20251106171402 E71132034335E26EA
+8E09EE4F9457A39)...executed.
+
+
+(./_minted/default.style.minted)
+(./_minted/20455B85A0922416FCDF387A389EFAEC.highlight.minted
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+
+[3])
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 65.
+
+(./_minted/A48BB47CC2A7DB268AB2CD97B94EC94D.highlight.minted
+
+) (./_minted/303C767D82906756C02AE9DABABA47BA.highlight.minted)
+(./_minted/4BB93628BEE6DD7E13C25D34441F3426.highlight.minted
+
+[4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/BBE119F11B978E68A9103FF20DAE55DA.highlight.minted
+
+[5]) (./_minted/51317FA026A4CB21D3F4D41DD87A9785.highlight.minted
+
+) (./_minted/F6EC7D7CB48358D5A22DBFFEF3B664A6.highlight.minted
+
+[6]) (./_minted/A7E8C52AF22AFAA27CAC97C7F97A9902.highlight.minted)
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 81.
+
+(./_minted/5E10118C5DE68532E63763264BB22743.highlight.minted
+
+) (./_minted/24AF91141D84DECE516CFEDEC89E6C0F.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[7]) (./_minted/11A92A8F45862C0E303A32793F546767.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/8C674F384D699CDB41DDF0B45E719A56.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[8]) (./_minted/8687C95C308F6DF3E952E077B3DAC4F4.highlight.minted
+
+) (./_minted/8C050D7193ED6164D25681E4C8832230.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/E18F9316B087BD29AAFF3F198477D220.highlight.minted
+
+[10]) (./_minted/9509F9E393EB5193806528D764C2134E.highlight.minted
+
+) (./_minted/541A5AD12D2AC4866E3F9B8745FF0F9A.highlight.minted
+
+[11]) (./_minted/C3764399CB7B0FD34C6E20AF471B0824.highlight.minted
+
+) (./_minted/CC98BD0A24F6C5059D4C4E9A6C69BD68.highlight.minted
+
+[12]) (./_minted/A69540EE7C2F73B319485DA6C597F70B.highlight.minted
+
+)
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 107.
+
+(./_minted/6CD0EC416CFB1BF30CC51A5991C89F55.highlight.minted)
+(./_minted/C7929E44994692D83473E704DADADD69.highlight.minted
+
+[13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/AB5719454260897806A7C5D4D9F801CC.highlight.minted
+
+[14]) (./_minted/6ECF7B8EE93B5D644685BEFC57E5BC22.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[15]) (./_minted/0E96BFD52A520842D99ED90ECFD5B99F.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[16]) (./_minted/0C2FB9241DA50417F1C6258BF58454D2.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[17]) (./_minted/B568B2E38462682CD84963B36B2BD426.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+
+[18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[19]) (./_minted/9482654E9EFC0550C5240F6279969AF6.highlight.minted
+
+) (./_minted/0E0BA6845361B146297CD0A6E249BB4C.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[20]
+
+) (./_minted/8AC56993AD55021FF719252A6E0D958A.highlight.minted
+
+[21]) (./_minted/B6E72410A6A8DDDAF3613D3C50905CDD.highlight.minted
+
+) (./_minted/EED1AFFD8CAF6BC22690D0ED75E0D8D7.highlight.minted
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+
+
+[22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[23]) (./_minted/762518B65C92A2C07E9294F8724DBD90.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[24]) (./_minted/F41F9570EF64E7F2944996D9BB51FF82.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[25]) (./_minted/4C5CDFD00E7D1418436B02C4D8232CAD.highlight.minted
+
+)
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 139.
+
+(./_minted/FA504FFAA0ED774055C51118A01B19C6.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[26]
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[27]) (./_minted/ABE04BC581598E45A701B1A54B4732C9.highlight.minted
+
+) (./_minted/D43C78C31BE2C344EE008765B688EFC8.highlight.minted
+
+[28]) (./_minted/217AA27ED338AB39DBBE75F46FCFAEC9.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[29]) (./_minted/575CDA951FA84251DFB462D20E06D3E6.highlight.minted
+
+) (./_minted/BE7577E2CC11AAF3ABE110C0DBFD4BDE.highlight.minted
+
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/FC6D54C33204273E1F1EEF48BF7409CB.highlight.minted
+
+[32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/CEFB5099D795254C1627D621FC06F206.highlight.minted
+
+[33]) (./_minted/EF2605B8CBB42974864CCAF74FB76FC5.highlight.minted
+
+) (./_minted/A4A01DB00EB74D8EAF5F7BEC5E01E19D.highlight.minted
+
+[34])
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 161.
+
+(./_minted/B18DE67FB97E87638F7978ABB0738844.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/ABC270A3CF931694B75C4E6EF312D9A9.highlight.minted
+
+[35]) (./_minted/124F7193C11BB961A50BBBB4C97F8485.highlight.minted
+
+) (./_minted/D6ED4FBD859BDF967174D66DA6B5C39F.highlight.minted)
+(./_minted/4FE91B94C4EC844E106DD90C7A7B25E3.highlight.minted
+
+[36]) (./_minted/36542FDA177DF4B3DCE99796CC7D93A4.highlight.minted
+
+) (./_minted/14CDD2FF49FE7973B17A8EDFDEECBFC9.highlight.minted)
+(./_minted/AFC0C03524D7ACAE76E0BB384EA23C79.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[37]
+
+) (./_minted/A8802C954115403D470AFE927CE6B346.highlight.minted)
+(./_minted/905036398157BF16D87DD5408E028680.highlight.minted
+
+[38]) (./_minted/EE94A9BAE699E1CC8BE761A4906B8C7D.highlight.minted
+
+) (./_minted/6243340274644398DCA7E3F28C8F2F07.highlight.minted
+
+[39]) (./_minted/B0FB30F9CA3526157E0A86460C3E52A6.highlight.minted)
+(./_minted/BCDA1F0B1C725EB8E0B3AC31F34B9F7E.highlight.minted
+
+) (./_minted/005F5815B45986E7175AA716A414FFAF.highlight.minted
+
+[40])
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 193.
+
+(./_minted/ADE429EF4A7F93D56814ED0DC50E7C8A.highlight.minted
+
+) (./_minted/4B9FAF6A69706E9EEDE1FBE4B34573F1.highlight.minted
+
+[41]) (./_minted/91093ACC492C57338A084A250A1FF0EF.highlight.minted
+
+) (./_minted/E89C51CEFE7461C94153718FF7E7EFC2.highlight.minted
+
+[42]) (./_minted/449BC00D0113DA2AD76419B0861D4071.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[43]) (./_minted/82529597FE7C021EC4F9E73B3A061121.highlight.minted)
+(./_minted/93590BCD836312B97DA2D26D8B679DB9.highlight.minted
+
+) (./_minted/009A1E8ECAD15DC4BFAB33DB38C77EBB.highlight.minted
+
+[44])
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 211.
+
+(./_minted/2F497000A42AE8A3DA67601A89033BC2.highlight.minted
+
+) (./_minted/AF11AA4418590092A944F7E64822DD57.highlight.minted
+
+[45]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[46]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/34CCAB1A73CD95CFCB2984106726FE7A.highlight.minted
+
+[49]) (./_minted/FDFC8DC042E5357D13EB2B058B55BD3F.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/93B0AA0BFC7CC0741E9FEF7855EC2828.highlight.minted
+
+[51]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/94B2E22E09510D05E88650323C93A96E.highlight.minted
+
+[52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/5E63A4B0D3709A77DAD637FDAD160D25.highlight.minted
+
+[53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/8FA367B0CEAD7D6D7A0189D8CC8286B4.highlight.minted
+
+[54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[55]) (./_minted/27263FF2E20336716A673FEFF7E3B59B.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[56]) (./_minted/509C44B2BF8B19EE2A0FBBCE5A62E6A6.highlight.minted
+
+) (./_minted/8CE8652646BBED924D32EF8C472DBE53.highlight.minted
+
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/20FC129B3A80BC8A8C9D32798C913B02.highlight.minted
+
+[58]) (./_minted/45AC534D67ADDD603EFB0D33E4639C6E.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+
+[59]) (./_minted/F8A480297BB9E811538AC66DE676B7CF.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[60]) (./_minted/C6F0F545F016EE3A5173EC321212D01A.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 1838) has occurred while \output is active []
+
+
+
+[61])
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 243.
+
+(./_minted/39C56EACC4B79E20B0C8EC544C1B99B0.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+
+[62])
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 247.
+
+(./_minted/62534B6C076ED7DBE735770864FCDDCE.highlight.minted
+
+) (./_minted/F38910B49F09703528689F4C3A7AB12A.highlight.minted
+
+[63]) (./_minted/42F2E337AE54262533E38BC9983DDAC2.highlight.minted
+
+) (./_minted/B18305D50407206F6252B3D48D0879EF.highlight.minted
+
+[64]) (./_minted/D088BA4870788B932B4649174C8E79D7.highlight.minted)
+(./_minted/C071DC89CE3FDF70C38C3410D7911338.highlight.minted
+
+) (./_minted/DED22A49224FDDDB4F91EC45D1D87547.highlight.minted
+
+[65]) (./_minted/C6BE39EE2265B41543F1D0362C15A1A9.highlight.minted
+
+) (./_minted/94EB4318937C12D3201C04D28EC89C59.highlight.minted
+
+[66]) (./_minted/54D3F6E5C0DB1BDEF893A9600569D5FA.highlight.minted)
+(./_minted/9B52772A47B15615095A906A11868E61.highlight.minted
+
+) (./_minted/C9414FE1C4475B7AFE6CA83DEC25ADB1.highlight.minted
+
+[67]) (./_minted/DF4CBC95FF53A25FD52B09D29D48A64E.highlight.minted
+
+) (./_minted/B9CF28C74E5B94F305D968CCC3FCAF2F.highlight.minted
+
+[68]) (./_minted/E925680B0070BFC3DA14FC4BF0D38541.highlight.minted
+
+) (./_minted/CCF92DBA6339981D0BAE9E18B27F57FE.highlight.minted)
+(./_minted/51897AD79FD09C2B9DA473D07ED91189.highlight.minted
+
+[69]) (./_minted/EFADD940FD0F8726CAF290F00D5DAFF8.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[70]) (./_minted/252C8B755C6C9D3DDE2E6291AA0B8396.highlight.minted)
+(./_minted/0DD5936770FF8B8572B74974DFE97637.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+
+[71]) (./_minted/313158FD39A2E0562619D72C8F3D2E64.highlight.minted
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[72]) (./_minted/0EAA1EB9F7FADB3C7F40CA86C1F64CD1.highlight.minted
+
+) (./_minted/5FBF70F494406D70F50E307DE7441AA8.highlight.minted)
+(./_minted/C19C0636F919BC444DAA2D9DE818378F.highlight.minted
+
+[73]) (./_minted/FDD01F7F4FB905BD2545C267913748B0.highlight.minted
+
+) (./_minted/3ABC86F9535971A9978F992C3C4B8681.highlight.minted
+
+[74]) (./_minted/BCA98B607BD3F89B73F9F50AD679A82B.highlight.minted
+
+) (./_minted/D3316102DE3F9794EC06EB586E5419CE.highlight.minted
+
+[75]) (./_minted/2414B2DF403D8D97F1E571AF8734E441.highlight.minted
+
+) (./_minted/EA61C9A5BA442592ADE91AA04D65CFE0.highlight.minted
+
+[76]) (./_minted/BEE09451B6767C67EF5A093DFB94D51E.highlight.minted
+
+) (./_minted/82C654F0158204AB3229D76C1AC4AE1F.highlight.minted
+
+[77]) (./_minted/E315100E921E3D8ECACCE33EA0E7CF0B.highlight.minted
+
+) (./_minted/F1DBBD59C72BED3B5AECAD7F5E65DDBB.highlight.minted
+
+[78]) (./_minted/B8F1766DF039B6EFDFB5332F36708E62.highlight.minted)
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 319.
+
+(./_minted/2230B1859C26D611D170071D9FFCC13A.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/53730EE5555CFF4586813ECC7452E2FD.highlight.minted
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[79]
+
+) (./_minted/0C353D945E1F6B0022511273D2C2F3E4.highlight.minted
+
+[80]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+) (./_minted/F7EFE091893F8CA39D2A2A43FA45F4CE.highlight.minted
+
+[81]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[82]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[83])
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 329.
+
+(./_minted/97DE9B54067A7C15C601163B2DAEC066.highlight.minted
+
+)
+
+[84] (./teambook.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `teambook.out' has not changed.
+(rerunfilecheck)             Checksum: 368CDE8C6970AE17A870D30361F015D7;21615.
+ ) 
+Here is how much of TeX's memory you used:
+ 17195 strings out of 473832
+ 403055 string characters out of 5735458
+ 1017924 words of memory out of 5000000
+ 39685 multiletter control sequences out of 15000+600000
+ 561244 words of font info for 71 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 85i,9n,93p,975b,865s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on teambook.pdf (84 pages).

@@ -1,0 +1,136 @@
+\contentsline {section}{\numberline {1}Additional Problems II}{3}{section.1}%
+\contentsline {subsubsection}{\numberline {1.0.1}GCD\_Subsets}{3}{subsubsection.1.0.1}%
+\contentsline {section}{\numberline {2}Bitwise Operations}{4}{section.2}%
+\contentsline {subsubsection}{\numberline {2.0.1}All\_Subarray\_Xors}{4}{subsubsection.2.0.1}%
+\contentsline {subsubsection}{\numberline {2.0.2}Counting\_Bits}{4}{subsubsection.2.0.2}%
+\contentsline {subsubsection}{\numberline {2.0.3}K\_Subset\_Xors}{4}{subsubsection.2.0.3}%
+\contentsline {subsubsection}{\numberline {2.0.4}Maximum\_Xor\_Subarray}{5}{subsubsection.2.0.4}%
+\contentsline {subsubsection}{\numberline {2.0.5}Maximum\_Xor\_Subset}{6}{subsubsection.2.0.5}%
+\contentsline {subsubsection}{\numberline {2.0.6}Number\_of\_Subset\_Xors}{6}{subsubsection.2.0.6}%
+\contentsline {subsubsection}{\numberline {2.0.7}Xor\_Pyramid\_Peak}{7}{subsubsection.2.0.7}%
+\contentsline {section}{\numberline {3}Dynamic Programming}{7}{section.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}Book\_Shop}{7}{subsubsection.3.0.1}%
+\contentsline {subsubsection}{\numberline {3.0.2}Coin\_Combinations}{8}{subsubsection.3.0.2}%
+\contentsline {subsubsection}{\numberline {3.0.3}Coin\_Combinations\_II}{8}{subsubsection.3.0.3}%
+\contentsline {subsubsection}{\numberline {3.0.4}Dice\_Combinations}{9}{subsubsection.3.0.4}%
+\contentsline {subsubsection}{\numberline {3.0.5}Edit\_Distance}{9}{subsubsection.3.0.5}%
+\contentsline {subsubsection}{\numberline {3.0.6}Grid\_Paths\_I}{10}{subsubsection.3.0.6}%
+\contentsline {subsubsection}{\numberline {3.0.7}Longest\_Common\_Subsequence}{10}{subsubsection.3.0.7}%
+\contentsline {subsubsection}{\numberline {3.0.8}Longest\_Common\_Subsequences}{11}{subsubsection.3.0.8}%
+\contentsline {subsubsection}{\numberline {3.0.9}Minimizing\_Coins}{11}{subsubsection.3.0.9}%
+\contentsline {subsubsection}{\numberline {3.0.10}Money Sums}{12}{subsubsection.3.0.10}%
+\contentsline {subsubsection}{\numberline {3.0.11}Rectangle\_Cutting}{12}{subsubsection.3.0.11}%
+\contentsline {subsubsection}{\numberline {3.0.12}Removing\_Digits}{13}{subsubsection.3.0.12}%
+\contentsline {section}{\numberline {4}Geometry}{13}{section.4}%
+\contentsline {subsubsection}{\numberline {4.0.1}All\_Manhattan\_DIstances}{13}{subsubsection.4.0.1}%
+\contentsline {subsubsection}{\numberline {4.0.2}Area\_of\_Rectangles}{13}{subsubsection.4.0.2}%
+\contentsline {subsubsection}{\numberline {4.0.3}Convex\_Hull}{14}{subsubsection.4.0.3}%
+\contentsline {subsubsection}{\numberline {4.0.4}Intersection\_Points}{15}{subsubsection.4.0.4}%
+\contentsline {subsubsection}{\numberline {4.0.5}Lines\_And\_Queries\_I}{16}{subsubsection.4.0.5}%
+\contentsline {subsubsection}{\numberline {4.0.6}Lines\_And\_Queries\_II}{17}{subsubsection.4.0.6}%
+\contentsline {subsubsection}{\numberline {4.0.7}Line\_Segment\_Intersection}{18}{subsubsection.4.0.7}%
+\contentsline {subsubsection}{\numberline {4.0.8}Line\_Segments\_Trace II}{20}{subsubsection.4.0.8}%
+\contentsline {subsubsection}{\numberline {4.0.9}Line\_Segment\_Trace\_I}{21}{subsubsection.4.0.9}%
+\contentsline {subsubsection}{\numberline {4.0.10}Maximum\_Manhattan\_Distances}{21}{subsubsection.4.0.10}%
+\contentsline {subsubsection}{\numberline {4.0.11}Minimum\_Euclidean\_Distance}{22}{subsubsection.4.0.11}%
+\contentsline {subsubsection}{\numberline {4.0.12}Point\_in\_Polygon}{22}{subsubsection.4.0.12}%
+\contentsline {subsubsection}{\numberline {4.0.13}Point\_Location\_Test}{24}{subsubsection.4.0.13}%
+\contentsline {subsubsection}{\numberline {4.0.14}Polygon\_Area}{25}{subsubsection.4.0.14}%
+\contentsline {subsubsection}{\numberline {4.0.15}Polygon\_Lattice\_Points}{26}{subsubsection.4.0.15}%
+\contentsline {section}{\numberline {5}Graph Algorithms}{27}{section.5}%
+\contentsline {subsubsection}{\numberline {5.0.1}Cycle\_Finding}{27}{subsubsection.5.0.1}%
+\contentsline {subsubsection}{\numberline {5.0.2}Flight\_Routes}{28}{subsubsection.5.0.2}%
+\contentsline {subsubsection}{\numberline {5.0.3}Game\_Levels}{28}{subsubsection.5.0.3}%
+\contentsline {subsubsection}{\numberline {5.0.4}HIgh\_Score}{29}{subsubsection.5.0.4}%
+\contentsline {subsubsection}{\numberline {5.0.5}Longest\_Flight\_Route}{30}{subsubsection.5.0.5}%
+\contentsline {subsubsection}{\numberline {5.0.6}Monsters}{30}{subsubsection.5.0.6}%
+\contentsline {subsubsection}{\numberline {5.0.7}Round\_Trip}{32}{subsubsection.5.0.7}%
+\contentsline {subsubsection}{\numberline {5.0.8}Round\_Trip\_II}{33}{subsubsection.5.0.8}%
+\contentsline {subsubsection}{\numberline {5.0.9}Shortest\_Routes}{34}{subsubsection.5.0.9}%
+\contentsline {subsubsection}{\numberline {5.0.10}Shortest\_Routes\_II}{34}{subsubsection.5.0.10}%
+\contentsline {section}{\numberline {6}Introductory Problems}{35}{section.6}%
+\contentsline {subsubsection}{\numberline {6.0.1}Apple\_Division}{35}{subsubsection.6.0.1}%
+\contentsline {subsubsection}{\numberline {6.0.2}Bit\_Strings}{35}{subsubsection.6.0.2}%
+\contentsline {subsubsection}{\numberline {6.0.3}Coin\_Piles}{36}{subsubsection.6.0.3}%
+\contentsline {subsubsection}{\numberline {6.0.4}Creating\_Strings}{36}{subsubsection.6.0.4}%
+\contentsline {subsubsection}{\numberline {6.0.5}Gray\_Code}{36}{subsubsection.6.0.5}%
+\contentsline {subsubsection}{\numberline {6.0.6}Increasing\_Array}{37}{subsubsection.6.0.6}%
+\contentsline {subsubsection}{\numberline {6.0.7}Missing\_Number}{37}{subsubsection.6.0.7}%
+\contentsline {subsubsection}{\numberline {6.0.8}Palindrome\_Reorder}{38}{subsubsection.6.0.8}%
+\contentsline {subsubsection}{\numberline {6.0.9}Permutation}{38}{subsubsection.6.0.9}%
+\contentsline {subsubsection}{\numberline {6.0.10}Repeitions}{38}{subsubsection.6.0.10}%
+\contentsline {subsubsection}{\numberline {6.0.11}String\_Reorder}{39}{subsubsection.6.0.11}%
+\contentsline {subsubsection}{\numberline {6.0.12}Trailing\_Zeros}{39}{subsubsection.6.0.12}%
+\contentsline {subsubsection}{\numberline {6.0.13}Two\_Knights}{40}{subsubsection.6.0.13}%
+\contentsline {subsubsection}{\numberline {6.0.14}Two\_Sets}{40}{subsubsection.6.0.14}%
+\contentsline {subsubsection}{\numberline {6.0.15}Weird\_Algorithm}{40}{subsubsection.6.0.15}%
+\contentsline {section}{\numberline {7}Mathematics}{41}{section.7}%
+\contentsline {subsubsection}{\numberline {7.0.1}Bracket\_Sequences\_I}{41}{subsubsection.7.0.1}%
+\contentsline {subsubsection}{\numberline {7.0.2}Christmas\_Party}{41}{subsubsection.7.0.2}%
+\contentsline {subsubsection}{\numberline {7.0.3}Common\_Divisors}{42}{subsubsection.7.0.3}%
+\contentsline {subsubsection}{\numberline {7.0.4}Distribuiting\_Apples}{42}{subsubsection.7.0.4}%
+\contentsline {subsubsection}{\numberline {7.0.5}Divisor\_Analysis}{43}{subsubsection.7.0.5}%
+\contentsline {subsubsection}{\numberline {7.0.6}Exponentiation\_II}{44}{subsubsection.7.0.6}%
+\contentsline {subsubsection}{\numberline {7.0.7}Next\_Prime}{44}{subsubsection.7.0.7}%
+\contentsline {subsubsection}{\numberline {7.0.8}Sum\_Of\_Divisors}{44}{subsubsection.7.0.8}%
+\contentsline {section}{\numberline {8}Range Queries}{45}{section.8}%
+\contentsline {subsubsection}{\numberline {8.0.1}Distinct\_Values\_Queries}{45}{subsubsection.8.0.1}%
+\contentsline {subsubsection}{\numberline {8.0.2}Distinct\_Values\_Queries\_II}{45}{subsubsection.8.0.2}%
+\contentsline {subsubsection}{\numberline {8.0.3}Forest\_Quieries}{49}{subsubsection.8.0.3}%
+\contentsline {subsubsection}{\numberline {8.0.4}Hotel\_Queries}{50}{subsubsection.8.0.4}%
+\contentsline {subsubsection}{\numberline {8.0.5}List\_Removals}{51}{subsubsection.8.0.5}%
+\contentsline {subsubsection}{\numberline {8.0.6}Missing\_Coin\_Sum\_Queries}{52}{subsubsection.8.0.6}%
+\contentsline {subsubsection}{\numberline {8.0.7}Pizzeria\_Queries}{53}{subsubsection.8.0.7}%
+\contentsline {subsubsection}{\numberline {8.0.8}Polynomial\_Quieries}{54}{subsubsection.8.0.8}%
+\contentsline {subsubsection}{\numberline {8.0.9}Prefix\_Sum\_Queries}{56}{subsubsection.8.0.9}%
+\contentsline {subsubsection}{\numberline {8.0.10}Range\_Interval\_Queries}{57}{subsubsection.8.0.10}%
+\contentsline {subsubsection}{\numberline {8.0.11}Range\_Queries\_and\_Copies}{57}{subsubsection.8.0.11}%
+\contentsline {subsubsection}{\numberline {8.0.12}Range\_Update\_Queries}{58}{subsubsection.8.0.12}%
+\contentsline {subsubsection}{\numberline {8.0.13}Salary\_Querys}{59}{subsubsection.8.0.13}%
+\contentsline {subsubsection}{\numberline {8.0.14}Subarray\_Sum\_Queries}{60}{subsubsection.8.0.14}%
+\contentsline {subsubsection}{\numberline {8.0.15}Subarray\_Sum\_Queries\_II}{61}{subsubsection.8.0.15}%
+\contentsline {section}{\numberline {9}Sliding Window}{62}{section.9}%
+\contentsline {subsubsection}{\numberline {9.0.1}Sliding\_Window\_Median}{62}{subsubsection.9.0.1}%
+\contentsline {section}{\numberline {10}Sorting and Searching}{63}{section.10}%
+\contentsline {subsubsection}{\numberline {10.0.1}Array\_Division}{63}{subsubsection.10.0.1}%
+\contentsline {subsubsection}{\numberline {10.0.2}Collecting\_Numbers}{63}{subsubsection.10.0.2}%
+\contentsline {subsubsection}{\numberline {10.0.3}Collecting\_Numbers\_II}{64}{subsubsection.10.0.3}%
+\contentsline {subsubsection}{\numberline {10.0.4}Concert\_Tickets}{64}{subsubsection.10.0.4}%
+\contentsline {subsubsection}{\numberline {10.0.5}Distinct\_Numbers}{65}{subsubsection.10.0.5}%
+\contentsline {subsubsection}{\numberline {10.0.6}Distinct\_Values\_Subarray}{65}{subsubsection.10.0.6}%
+\contentsline {subsubsection}{\numberline {10.0.7}Distinct\_Values\_Subarrays\_II}{65}{subsubsection.10.0.7}%
+\contentsline {subsubsection}{\numberline {10.0.8}Distinct\_Values\_Subsequences}{66}{subsubsection.10.0.8}%
+\contentsline {subsubsection}{\numberline {10.0.9}Factory\_Machines}{66}{subsubsection.10.0.9}%
+\contentsline {subsubsection}{\numberline {10.0.10}Factory\_Machines}{67}{subsubsection.10.0.10}%
+\contentsline {subsubsection}{\numberline {10.0.11}Ferris\_Wheel}{67}{subsubsection.10.0.11}%
+\contentsline {subsubsection}{\numberline {10.0.12}Josephus\_Problem\_I}{67}{subsubsection.10.0.12}%
+\contentsline {subsubsection}{\numberline {10.0.13}Josephus\_Problem\_II}{68}{subsubsection.10.0.13}%
+\contentsline {subsubsection}{\numberline {10.0.14}Maximum\_Subarray\_Sum}{68}{subsubsection.10.0.14}%
+\contentsline {subsubsection}{\numberline {10.0.15}Maximum\_Subarray\_Sum\_II}{69}{subsubsection.10.0.15}%
+\contentsline {subsubsection}{\numberline {10.0.16}Missing\_Coin\_Sum}{69}{subsubsection.10.0.16}%
+\contentsline {subsubsection}{\numberline {10.0.17}Movie\_Festival}{69}{subsubsection.10.0.17}%
+\contentsline {subsubsection}{\numberline {10.0.18}Movie\_Festival\_II}{70}{subsubsection.10.0.18}%
+\contentsline {subsubsection}{\numberline {10.0.19}Nearest\_Smaller\_Values}{71}{subsubsection.10.0.19}%
+\contentsline {subsubsection}{\numberline {10.0.20}Nested\_Ranges\_Check}{71}{subsubsection.10.0.20}%
+\contentsline {subsubsection}{\numberline {10.0.21}Nested\_Ranges\_Count}{72}{subsubsection.10.0.21}%
+\contentsline {subsubsection}{\numberline {10.0.22}Playlist}{73}{subsubsection.10.0.22}%
+\contentsline {subsubsection}{\numberline {10.0.23}Reading\_Books}{73}{subsubsection.10.0.23}%
+\contentsline {subsubsection}{\numberline {10.0.24}Restaurant\_Customers}{73}{subsubsection.10.0.24}%
+\contentsline {subsubsection}{\numberline {10.0.25}Room\_Allocation}{74}{subsubsection.10.0.25}%
+\contentsline {subsubsection}{\numberline {10.0.26}Stick\_Lengths}{74}{subsubsection.10.0.26}%
+\contentsline {subsubsection}{\numberline {10.0.27}Subarray\_Divisibility}{75}{subsubsection.10.0.27}%
+\contentsline {subsubsection}{\numberline {10.0.28}Subarray\_Sums\_I}{75}{subsubsection.10.0.28}%
+\contentsline {subsubsection}{\numberline {10.0.29}Subarray\_Sums\_II}{76}{subsubsection.10.0.29}%
+\contentsline {subsubsection}{\numberline {10.0.30}Sum\_of\_Four\_Values}{76}{subsubsection.10.0.30}%
+\contentsline {subsubsection}{\numberline {10.0.31}Sum\_of\_Three\_Values}{77}{subsubsection.10.0.31}%
+\contentsline {subsubsection}{\numberline {10.0.32}Sum\_of\_Two\_Values}{77}{subsubsection.10.0.32}%
+\contentsline {subsubsection}{\numberline {10.0.33}Tasks\_and\_Deadlines}{78}{subsubsection.10.0.33}%
+\contentsline {subsubsection}{\numberline {10.0.34}Towers}{78}{subsubsection.10.0.34}%
+\contentsline {subsubsection}{\numberline {10.0.35}Traffic\_Lights}{79}{subsubsection.10.0.35}%
+\contentsline {section}{\numberline {11}String Algorithms}{79}{section.11}%
+\contentsline {subsubsection}{\numberline {11.0.1}Finding\_Borders}{79}{subsubsection.11.0.1}%
+\contentsline {subsubsection}{\numberline {11.0.2}Longest\_Palindrome}{80}{subsubsection.11.0.2}%
+\contentsline {subsubsection}{\numberline {11.0.3}Palindrome\_Queries\_BIT}{80}{subsubsection.11.0.3}%
+\contentsline {subsubsection}{\numberline {11.0.4}Palindrome\_Queries}{81}{subsubsection.11.0.4}%
+\contentsline {section}{\numberline {12}Tree Algorithms}{84}{section.12}%
+\contentsline {subsubsection}{\numberline {12.0.1}Distinct\_Colors}{84}{subsubsection.12.0.1}%

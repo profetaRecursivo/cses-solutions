@@ -1,0 +1,24 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{k+kn}{import}\PYG{+w}{ }\PYG{n+nn}{sys}
+\PYG{c+c1}{\PYGZsh{} A factory has n machines which can be used to make products. Your goal is to make a total of t products.}
+\PYG{c+c1}{\PYGZsh{} For each machine, you know the number of seconds it needs to make a single product. The machines can work simultaneously, and you can freely decide their schedule.}
+\PYG{c+c1}{\PYGZsh{} What is the shortest time needed to make t products?}
+\PYG{n+nb}{input} \PYG{o}{=} \PYG{n}{sys}\PYG{o}{.}\PYG{n}{stdin}\PYG{o}{.}\PYG{n}{readline}
+\PYG{k}{def}\PYG{+w}{ }\PYG{n+nf}{f}\PYG{p}{(}\PYG{n}{arr}\PYG{p}{,} \PYG{n}{k}\PYG{p}{,} \PYG{n}{mid}\PYG{p}{)}\PYG{p}{:}
+    \PYG{n}{suma} \PYG{o}{=} \PYG{n+nb}{sum}\PYG{p}{(}\PYG{n}{mid} \PYG{o}{/}\PYG{o}{/} \PYG{n}{x} \PYG{k}{for} \PYG{n}{x} \PYG{o+ow}{in} \PYG{n}{arr}\PYG{p}{)}
+    \PYG{k}{return} \PYG{n}{suma}\PYG{o}{\PYGZgt{}}\PYG{o}{=}\PYG{n}{k}
+
+\PYG{n}{n}\PYG{p}{,} \PYG{n}{k} \PYG{o}{=} \PYG{n+nb}{map}\PYG{p}{(}\PYG{n+nb}{int}\PYG{p}{,} \PYG{n+nb}{input}\PYG{p}{(}\PYG{p}{)}\PYG{o}{.}\PYG{n}{split}\PYG{p}{(}\PYG{p}{)}\PYG{p}{)}
+\PYG{n}{arr} \PYG{o}{=} \PYG{n+nb}{list}\PYG{p}{(}\PYG{n+nb}{map}\PYG{p}{(}\PYG{n+nb}{int}\PYG{p}{,} \PYG{n+nb}{input}\PYG{p}{(}\PYG{p}{)}\PYG{o}{.}\PYG{n}{split}\PYG{p}{(}\PYG{p}{)}\PYG{p}{)}\PYG{p}{)}
+\PYG{n}{l} \PYG{o}{=} \PYG{l+m+mi}{1}
+\PYG{n}{r}  \PYG{o}{=} \PYG{n+nb}{max}\PYG{p}{(}\PYG{n}{arr}\PYG{p}{)} \PYG{o}{*} \PYG{n}{k}
+\PYG{n}{ans} \PYG{o}{=} \PYG{l+m+mi}{0}
+\PYG{k}{while} \PYG{n}{l}\PYG{o}{\PYGZlt{}}\PYG{o}{=}\PYG{n}{r}\PYG{p}{:}
+    \PYG{n}{mid} \PYG{o}{=} \PYG{p}{(}\PYG{n}{l}\PYG{o}{+}\PYG{n}{r}\PYG{p}{)}\PYG{o}{/}\PYG{o}{/}\PYG{l+m+mi}{2}
+    \PYG{k}{if} \PYG{n}{f}\PYG{p}{(}\PYG{n}{arr}\PYG{p}{,} \PYG{n}{k}\PYG{p}{,} \PYG{n}{mid}\PYG{p}{)}\PYG{p}{:}
+       \PYG{n}{ans} \PYG{o}{=} \PYG{n}{mid}
+       \PYG{n}{r} \PYG{o}{=} \PYG{n}{mid}\PYG{o}{\PYGZhy{}}\PYG{l+m+mi}{1}
+    \PYG{k}{else}\PYG{p}{:}
+        \PYG{n}{l} \PYG{o}{=} \PYG{n}{mid}\PYG{o}{+}\PYG{l+m+mi}{1}
+\PYG{n+nb}{print}\PYG{p}{(}\PYG{n}{ans}\PYG{p}{)}
+\end{MintedVerbatim}
